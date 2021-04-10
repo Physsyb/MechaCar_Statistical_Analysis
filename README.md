@@ -72,15 +72,18 @@ The design specifications for the MechaCar suspension coils dictate that the var
 > There is a summary of the t-test results across all manufacturing lots and for each lot.
 
 1. **ALL Lots**  - The mean of the sample is 1498.78 and the 'p-Value` is 0.06 which is higher than the common significance level of 0.05. Therefore, we do not have enough evidence to support rejecting the null hypothesis. That is, the mean of all three of these manufacturing lots is statistically similar to the presumed population mean of 1500.
+
 ![5](https://user-images.githubusercontent.com/76136277/114252926-ccbb9180-9975-11eb-92a5-dfff33e763b8.PNG)
 
 2. **Lot 1** - The mean of the sample is **1500** and the `p-Value` is **1** , therefore,  we cannot reject the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean of 1500.
 ![6a](https://user-images.githubusercontent.com/76136277/114253077-89155780-9976-11eb-9a67-46d858d78f05.PNG)
 
 3. **Lot 2** - The mean of the sample is **1500.02** and the `p-Value` is **0.61**. The null hypothesis cannot be rejected, and the sample mean and population mean of 1500 are statistically similar.
+
 ![6b](https://user-images.githubusercontent.com/76136277/114253129-cc6fc600-9976-11eb-8917-166b5bd5b8d1.PNG)
 
 4. **Lot 3** - this is a different from other lots because the sample mean is **1496.14**, and the `p-Value` is **0.04**. This is lower than the common significant level of 0.05, and has safely indicated to reject the null hypothesis, that is, the sample mean and the presumed population mean are not statistically different.
+
 ![6c](https://user-images.githubusercontent.com/76136277/114253315-be6e7500-9977-11eb-90c8-f029ea5c525d.PNG)
 
 # Deliverable 4
